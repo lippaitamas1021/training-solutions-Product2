@@ -7,4 +7,5 @@ public class Song {
     String title;
 
     int length;
+
 }
